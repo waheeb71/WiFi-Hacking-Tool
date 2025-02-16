@@ -1,6 +1,6 @@
 Here's an enhanced version of your `README.md` file with additional sections and improvements:
 
-```bash
+
 WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking and network analysis. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.
 
 ###🌟 Features:
@@ -21,11 +21,10 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
   - `termcolor`
   - `subprocess`
 
+
+
 ### 📦 Installation:
-
 ### Step 1: Clone the Repository
-```
-
 ```bash
 git clone https://github.com/waheeb71/WiFi-Hacking-Tool.git
 cd WiFi-Hacking-Tool
@@ -84,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 ---
 
 **Stay ethical, stay legal, and happy hacking!** 🔒💻
-```
+
 
 ### Enhancements:
 
@@ -95,12 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 - **Contributing**: Encouraged contributions with a dedicated section.
 - **Contact**: Provided clear contact information for support.
 
-This structure makes the `README.md` file more comprehensive and engaging, providing all the necessary information for users to get started with the tool.
 
-
-
-
-```markdown
 
 أداة اختراق الواي فاي هي أداة قوية مبنية على لغة البايثون تم تصميمها لأغراض الاختراق الأخلاقي وتحليل الشبكات. توفر واجهة سهلة الاستخدام للتقاط المصافحات، كسر كلمات المرور، تحليل حركة المرور الشبكي، وتنفيذ هجمات متعددة على الشبكات.
 
@@ -121,6 +115,7 @@ This structure makes the `README.md` file more comprehensive and engaging, provi
   - `iw`
   - `termcolor`
   - `subprocess`
+
 
 ## 📦 التثبيت:
 
@@ -184,7 +179,7 @@ python3 wifi_hacker.py
 ---
 
 **ابق أخلاقيًا، ابق قانونيًا، واستمتع بالاختراق!** 🔒💻
-```
+
 
 ### تحسينات:
 
