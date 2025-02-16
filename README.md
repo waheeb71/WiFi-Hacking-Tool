@@ -1,9 +1,9 @@
 Here's an enhanced version of your `README.md` file with additional sections and improvements:
 
-```markdown
+```
 WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking and network analysis. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.
 
-### 🌟 Features:
+## 🌟 Features:
 - **Handshake Capture:** Capture WPA/WPA2 handshakes from target networks.
 - **Password Cracking:** Use wordlists or custom dictionaries to crack captured handshakes.
 - **Network Monitoring:** Enter monitor mode and analyze nearby networks.
@@ -11,7 +11,7 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
 - **Traffic Analysis:** Analyze network traffic using BetterCAP.
 - **User-Friendly Interface:** Easy-to-navigate menu for selecting different functionalities.
 
-### 🛠️ Requirements:
+## 🛠️ Requirements:
 - **Operating System:** Kali Linux or any Debian-based distribution.
 - **Python Version:** Python 3.x
 - **Required Packages:**
@@ -21,9 +21,9 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
   - `termcolor`
   - `subprocess`
 
-### 📦 Installation:
+## 📦 Installation:
 
-### Step 1: Clone the Repository
+## Step 1: Clone the Repository
 ```bash
 git clone https://github.com/waheeb71/WiFi-Hacking-Tool.git
 cd WiFi-Hacking-Tool
@@ -49,11 +49,11 @@ python3 wifi_hacker.py
 4. **Disconnect Devices:** Perform deauthentication attacks using options `5` or `6`.
 
 ## 📸 Screenshots:
-![Screenshot 1](https://github.com/waheeb71/WiFi-Hacking-Tool/blob/main/screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
-![Screenshot 5](screenshots/screenshot5.png)
+![screenshot 1](screenshots/screenshot1.png)
+![screenshot 2](screenshots/screenshot2.png)
+![screenshot 3](screenshots/screenshot3.png)
+![screenshot 4](screenshots/screenshot4.png)
+![screenshot 5](screenshots/screenshot5.png)
 
 ## 🚨 Important Notes:
 1. **Ethical Use Only:** This tool should only be used for educational and ethical purposes. Do not attempt to hack into networks without explicit permission.
