@@ -1,9 +1,9 @@
 Here's an enhanced version of your `README.md` file with additional sections and improvements:
 
-```
+```bash
 WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking and network analysis. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.
 
-## 🌟 Features:
+###🌟 Features:
 - **Handshake Capture:** Capture WPA/WPA2 handshakes from target networks.
 - **Password Cracking:** Use wordlists or custom dictionaries to crack captured handshakes.
 - **Network Monitoring:** Enter monitor mode and analyze nearby networks.
@@ -11,7 +11,7 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
 - **Traffic Analysis:** Analyze network traffic using BetterCAP.
 - **User-Friendly Interface:** Easy-to-navigate menu for selecting different functionalities.
 
-## 🛠️ Requirements:
+### 🛠️ Requirements:
 - **Operating System:** Kali Linux or any Debian-based distribution.
 - **Python Version:** Python 3.x
 - **Required Packages:**
@@ -21,9 +21,11 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
   - `termcolor`
   - `subprocess`
 
-## 📦 Installation:
+### 📦 Installation:
 
-## Step 1: Clone the Repository
+### Step 1: Clone the Repository
+```
+
 ```bash
 git clone https://github.com/waheeb71/WiFi-Hacking-Tool.git
 cd WiFi-Hacking-Tool
