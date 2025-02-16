@@ -3,7 +3,7 @@ Here's an enhanced version of your `README.md` file with additional sections and
 
 WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking and network analysis. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.
 
-###🌟 Features:
+### 🌟 Features:
 - **Handshake Capture:** Capture WPA/WPA2 handshakes from target networks.
 - **Password Cracking:** Use wordlists or custom dictionaries to crack captured handshakes.
 - **Network Monitoring:** Enter monitor mode and analyze nearby networks.
@@ -50,11 +50,11 @@ python3 wifi_hacker.py
 4. **Disconnect Devices:** Perform deauthentication attacks using options `5` or `6`.
 
 ## 📸 Screenshots:
-![screenshot 1](screenshots/screenshot1.png)
-![screenshot 2](screenshots/screenshot2.png)
-![screenshot 3](screenshots/screenshot3.png)
-![screenshot 4](screenshots/screenshot4.png)
-![screenshot 5](screenshots/screenshot5.png)
+![screenshot 1](screenshots/screenshots1.png)
+![screenshot 2](screenshots/screenshots2.png)
+![screenshot 3](screenshots/screenshots3.png)
+![screenshot 4](screenshots/screenshots4.png)
+![screenshot 5](screenshots/screenshots5.png)
 
 ## 🚨 Important Notes:
 1. **Ethical Use Only:** This tool should only be used for educational and ethical purposes. Do not attempt to hack into networks without explicit permission.
@@ -63,9 +63,6 @@ python3 wifi_hacker.py
 
 ## 📜 Disclaimer:
 This tool is intended for educational and ethical purposes only. Unauthorized use of this tool on networks you do not own is illegal. The developer is not responsible for any misuse of this tool.
-
-## 🤝 Contributing:
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📞 Contact:
 For questions or support, contact me via:
@@ -110,11 +107,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 - **نظام التشغيل:** كالي لينكس أو أي توزيعة ديبيان.
 - **إصدار البايثون:** Python 3.x
 - **الحزم المطلوبة:**
-  - `bettercap`
-  - `aircrack-ng`
-  - `iw`
-  - `termcolor`
-  - `subprocess`
+   `bettercap`   -
+   `aircrack-ng` -
+   `iw`          -
+   `termcolor`   -
+   `subprocess`  -
 
 
 ## 📦 التثبيت:
@@ -145,23 +142,20 @@ python3 wifi_hacker.py
 4. **فصل الأجهزة:** قم بتنفيذ هجمات إلغاء المصادقة باستخدام الخيار `5` أو `6`.
 
 ## 📸 لقطات الشاشة:
-![لقطة الشاشة 1](screenshots/screenshot1.png)
-![لقطة الشاشة 2](screenshots/screenshot2.png)
-![لقطة الشاشة 3](screenshots/screenshot3.png)
-![لقطة الشاشة 4](screenshots/screenshot4.png)
-![لقطة الشاشة 5](screenshots/screenshot5.png)
+![لقطة الشاشة 1](screenshots/screenshots1.png)
+![لقطة الشاشة 2](screenshots/screenshots2.png)
+![لقطة الشاشة 3](screenshots/screenshots3.png)
+![لقطة الشاشة 4](screenshots/screenshots4.png)
+![لقطة الشاشة 5](screenshots/screenshots5.png)
 
 ## 🚨 ملاحظات هامة:
 1. **الاستخدام الأخلاقي فقط:** يجب استخدام هذه الأداة لأغراض تعليمية وأخلاقية فقط. لا تحاول اختراق الشبكات دون إذن صريح.
 2. **القوانين المحلية:** تأكد من أن استخدامك لهذه الأداة يتوافق مع القوانين المحلية في بلدك.
 3. **اختبار على شبكتك الخاصة:** اختبر الأداة دائمًا على شبكتك الخاصة أو الشبكات التي حصلت على إذن صريح لإجراء الاختبارات عليها.
-
+---
 ## 📜 إعلان تنصل:
 هذه الأداة مخصصة للأغراض التعليمية والأخلاقية فقط. الاستخدام غير المصرح به لهذه الأداة على الشبكات التي لا تملكها غير قانوني. المطور غير مسؤول عن أي سوء استخدام لهذه الأداة.
-
-## 🤝 المساهمة:
-المساهمات مرحب بها! يرجى فتح مشكلة أو إرسال طلب سحب.
-
+---
 ## 📞 التواصل:
 للأسئلة أو الدعم، يرجى التواصل معي عبر:
 - تليجرام: [@SyberSc71](https://t.me/SyberSc71)
