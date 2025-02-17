@@ -73,8 +73,6 @@ For questions or support, contact me via:
 - **X (formerly Twitter):** [@SyberSc](https://x.com/SyberSc)
 
 
-## 📜 License:
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
