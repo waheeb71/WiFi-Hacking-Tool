@@ -1,4 +1,3 @@
-Here's an enhanced version of your `README.md` file with additional sections and improvements:
 
 
 WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking and network analysis. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.
