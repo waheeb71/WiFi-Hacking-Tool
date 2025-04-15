@@ -1,6 +1,8 @@
 
 
 WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking and network analysis. It provides a user-friendly interface to capture handshakes, crack passwords, analyze network traffic, and perform various network attacks.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="100" alt="Kali Linux Logo" />
 
 ### 🌟 Features:
 - **Handshake Capture:** Capture WPA/WPA2 handshakes from target networks.
