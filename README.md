@@ -6,7 +6,7 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="100" alt="Kali Linux Logo" />
 
-### 🌟 Features:
+###  Features:
 - **Handshake Capture:** Capture WPA/WPA2 handshakes from target networks.
 - **Password Cracking:** Use wordlists or custom dictionaries to crack captured handshakes.
 - **Network Monitoring:** Enter monitor mode and analyze nearby networks.
@@ -14,7 +14,7 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
 - **Traffic Analysis:** Analyze network traffic using BetterCAP.
 - **User-Friendly Interface:** Easy-to-navigate menu for selecting different functionalities.
 
-### 🛠️ Requirements:
+### 🛠 Requirements:
 - **Operating System:** Kali Linux or any Debian-based distribution.
 - **Python Version:** Python 3.x
 - **Required Packages:**
@@ -26,7 +26,7 @@ WiFi Hacking Tool is a powerful Python-based tool designed for ethical hacking a
 
 
 
-### 📦 Installation:
+###  Installation:
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/waheeb71/WiFi-Hacking-Tool.git
@@ -46,7 +46,7 @@ pip3 install termcolor
 python3 wifi_hacker.py
 ```
 
-## 📝 Usage:
+##  Usage:
 1. **Capture Handshake:** Select option `1` to capture handshakes from nearby networks.
 2. **Crack Passwords:** Use option `4` to crack captured handshakes with a wordlist.
 3. **Monitor Networks:** Enter monitor mode using option `3`.
@@ -59,15 +59,15 @@ python3 wifi_hacker.py
 ![screenshot 4](screenshots/screenshots4.png)
 ![screenshot 5](screenshots/screenshots5.png)
 
-## 🚨 Important Notes:
+##  Important Notes:
 1. **Ethical Use Only:** This tool should only be used for educational and ethical purposes. Do not attempt to hack into networks without explicit permission.
 2. **Local Laws:** Ensure that your use of this tool complies with local laws in your country.
 3. **Test on Your Own Network:** Always test the tool on your own network or networks where you have explicit permission to conduct tests.
 
-## 📜 Disclaimer:
+##  Disclaimer:
 This tool is intended for educational and ethical purposes only. Unauthorized use of this tool on networks you do not own is illegal. The developer is not responsible for any misuse of this tool.
 
-## 📞 Contact:
+##  Contact:
 For questions or support, contact me via:
 - Telegram: [@SyberSc71](https://t.me/SyberSc71)
 - Telegram: [@WAT4F](https://t.me/WAT4F)
@@ -80,12 +80,12 @@ For questions or support, contact me via:
 
 ---
 
-**Stay ethical, stay legal, and happy hacking!** 🔒💻
+**Stay ethical, stay legal, and happy hacking!** 
 
 
 أداة اختراق الواي فاي هي أداة قوية مبنية على لغة البايثون تم تصميمها لأغراض الاختراق الأخلاقي وتحليل الشبكات. توفر واجهة سهلة الاستخدام للتقاط المصافحات، كسر كلمات المرور، تحليل حركة المرور الشبكي، وتنفيذ هجمات متعددة على الشبكات.
 
-## 🌟 الميزات:
+##  الميزات:
 - **التقاط المصافحات:** التقاط مصافحات WPA/WPA2 من الشبكات المستهدفة.
 - **كسر كلمات المرور:** استخدام قوائم الكلمات أو القواميس المخصصة لكسر المصافحات الملتقطة.
 - **مراقبة الشبكات:** الدخول في وضع المراقبة وتحليل الشبكات القريبة.
@@ -93,7 +93,7 @@ For questions or support, contact me via:
 - **تحليل حركة المرور:** تحليل حركة المرور الشبكي باستخدام BetterCAP.
 - **واجهة سهلة الاستخدام:** قائمة سهلة التنقل لاختيار الوظائف المختلفة.
 
-## 🛠️ المتطلبات:
+##  المتطلبات:
 - **نظام التشغيل:** كالي لينكس أو أي توزيعة ديبيان.
 - **إصدار البايثون:** Python 3.x
 - **الحزم المطلوبة:**
@@ -104,7 +104,7 @@ For questions or support, contact me via:
    `subprocess`  -
 
 
-## 📦 التثبيت:
+##  التثبيت:
 
 ### الخطوة 1: استنساخ المستودع
 ```bash
@@ -137,10 +137,10 @@ python3 wifi_hacker.py
 2. **القوانين المحلية:** تأكد من أن استخدامك لهذه الأداة يتوافق مع القوانين المحلية في بلدك.
 3. **اختبار على شبكتك الخاصة:** اختبر الأداة دائمًا على شبكتك الخاصة أو الشبكات التي حصلت على إذن صريح لإجراء الاختبارات عليها.
 ---
-## 📜 إعلان تنصل:
+## إعلان تنصل:
 هذه الأداة مخصصة للأغراض التعليمية والأخلاقية فقط. الاستخدام غير المصرح به لهذه الأداة على الشبكات التي لا تملكها غير قانوني. المطور غير مسؤول عن أي سوء استخدام لهذه الأداة.
 ---
-## 📞 التواصل:
+##  التواصل:
 للأسئلة أو الدعم، يرجى التواصل معي عبر:
 - تليجرام: [@SyberSc71](https://t.me/SyberSc71)
 - تليجرام: [@WAT4F](https://t.me/WAT4F)
@@ -151,11 +151,9 @@ python3 wifi_hacker.py
 
 - **الموقع:**  اليمن، تعز.
 
-## 📜 الترخيص:
-هذا المشروع مرخص بموجب ترخيص MIT. يرجى مراجعة الملف [LICENSE](LICENSE.md) للتفاصيل.
 
 ---
 
-**ابق أخلاقيًا، ابق قانونيًا، واستمتع بالاختراق!** 🔒💻
+**ابق أخلاقيًا، ابق قانونيًا، واستمتع بالاختراق!** 
 
 
