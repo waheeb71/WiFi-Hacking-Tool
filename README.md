@@ -77,7 +77,11 @@ For questions or support, contact me via:
 - **YouTube Channel:** [Cyber Code](https://www.youtube.com/@cyber_code1)
 - **X (formerly Twitter):** [@wa__cys](https://x.com/wa__cys)
 
+---
+## Author / المطور
 
+**English:** Waheeb Mahyoob Al-Sharabi (Waheeb Al-Sharabi)  
+**العربية:** هيب مهيوب الشرعبي (هيب الشرعبي)
 
 ---
 
